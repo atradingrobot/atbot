@@ -11,5 +11,12 @@ ATBot数字货币自动化交易机器上线啦，欢迎参与内测，官方网
 可无缝对接TradingView交易策略
 可自定义马丁网格策略，自定义每一次补仓的金额、开仓条件、平仓条件等
 
+# TradingView对接
+![image](https://raw.githubusercontent.com/atradingrobot/atbot/main/atbot_new_bot.jpg)
+![image](https://raw.githubusercontent.com/atradingrobot/atbot/main/atbot_robot.jpg)
+![image](https://raw.githubusercontent.com/atradingrobot/atbot/main/atbot_bot_config_tv.jpg)
+![image](https://raw.githubusercontent.com/atradingrobot/atbot/main/atbot_bot_tv_webhook.jpg)
+![image](https://raw.githubusercontent.com/atradingrobot/atbot/main/atbot_tv_notice.jpg)
+
 # 联系我们
 电报交流群：https://t.me/at_trading_robot
