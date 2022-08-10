@@ -12,10 +12,15 @@ ATBot数字货币自动化交易机器上线啦，欢迎参与内测，官方网
 可自定义马丁网格策略，自定义每一次补仓的金额、开仓条件、平仓条件等
 
 # TradingView对接
+1、点击创建新实盘
 ![image](https://raw.githubusercontent.com/atradingrobot/atbot/main/atbot_new_bot.jpg)
+2、填入实盘名称，选择交易所，选择TradingView策略，添加要跑的币种，填写TradingView的初始资金及实际要跑的资金，点击确认
 ![image](https://raw.githubusercontent.com/atradingrobot/atbot/main/atbot_robot.jpg)
+3、选择配置TV
 ![image](https://raw.githubusercontent.com/atradingrobot/atbot/main/atbot_bot_config_tv.jpg)
+4、选择要跑的币种，如没有，则去编辑里添加。把Webhook URL和消息复制到TradingView的警报里
 ![image](https://raw.githubusercontent.com/atradingrobot/atbot/main/atbot_bot_tv_webhook.jpg)
+5、这时TV的警报，与4步相对应
 ![image](https://raw.githubusercontent.com/atradingrobot/atbot/main/atbot_tv_notice.jpg)
 
 # 联系我们
