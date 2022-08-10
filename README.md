@@ -21,7 +21,7 @@ ATBot数字货币自动化交易机器上线啦，欢迎参与内测，官方网
 4、选择要跑的币种，如没有，则去编辑里添加。把Webhook URL和消息复制到TradingView的警报里
 ![image](https://raw.githubusercontent.com/atradingrobot/atbot/main/atbot_bot_tv_webhook.jpg)
 5、这时TV的警报，与4步相对应
-![image](https://raw.githubusercontent.com/atradingrobot/atbot/main/atbot_tv_notice.jpg)
+![image](https://raw.githubusercontent.com/atradingrobot/atbot/d6701061a48e71313cce848e75021897926a0870/atbot_tv_notice.jpg)
 
 # 联系我们
 电报交流群：https://t.me/at_trading_robot
